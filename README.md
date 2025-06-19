@@ -101,6 +101,7 @@
     - 
 ### Results
   - web 기능 설명
+    - https://bert-absa-shampoo-web.onrender.com
   - 발표 pdf 파일 첨부
 
 ### Review
