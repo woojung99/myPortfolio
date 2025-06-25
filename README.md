@@ -1,9 +1,11 @@
-# myPortfolio
-# Introduction
+# 📋 myPortfolio
+진행한 프로젝트에 대한 간략한 소개를 담고 있습니다.\
+각 프로젝트의 상세 수행 과정 및 소스 코드는 [레파지토리 보러가기] 링크를 통해 확인할 수 있습니다.
 
 # Projects
-## 1. shortcut_2_ur_shampoo.txt
-- 올리브영 샴푸 리뷰 ABSA 프로젝트
+## 📌 shortcut_2_ur_shampoo.txt
+- 올리브영 샴푸 리뷰 ABSA 프로젝트\
+🔎 [레파지토리 보러가기](https://github.com/woojung99/Shortcut_to_Your_Shampoo.txt)
   
 ### Period
 - 2025.05.12 ~ 2025.06.13 (약 1개월)
@@ -21,7 +23,7 @@
 
 ### Results
   - 각 제품 별 리뷰 기반 통계 정보 및 시각 자료 제공하는 웹 서비스
-    - 웹 사이트 주소: https://bert-absa-shampoo-web.onrender.com
+    - 🔗 웹 사이트 주소: https://bert-absa-shampoo-web.onrender.com
       
   - [발표 자료](./파이널플젝_발표_최종.pdf)
 
@@ -37,7 +39,7 @@
   - 데이터 전처리 및 분석
   - 발표
     
-## Tech Stack
+### Tech Stack
 | 분야 | 기술/도구 |
 |:-:|:-:|
 | 프로그래밍 언어 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> |
@@ -48,7 +50,7 @@
 | 환경 | <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> |
 | 협업 | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> |
 
-## 2. 따봄
+## 📌 따봄
 - 따릉이 수요 분석 프로젝트
 - (회귀로 수요 예측 누락부분 채우기)
 - pdf 발표자료 링크
