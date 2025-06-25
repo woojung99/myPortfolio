@@ -3,6 +3,12 @@
 각 프로젝트의 상세 수행 과정 및 소스 코드는 [레파지토리 보러가기] 링크를 통해 확인할 수 있습니다.
 
 # Projects
+## List
+- shortcut_2_ur_shampoo.txt
+  - 샴푸 리뷰 ABSA 딥러닝 프로젝트
+- 따릉이의 봄 (따봄)
+  - 따릉이 수요 분석 프로젝트
+  
 ## 📌 shortcut_2_ur_shampoo.txt
 - 올리브영 샴푸 리뷰 ABSA 프로젝트\
 🔎 [레파지토리 보러가기](https://github.com/woojung99/Shortcut_to_Your_Shampoo.txt)
