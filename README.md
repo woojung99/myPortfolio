@@ -30,7 +30,7 @@
 
 ### Results
   - 각 제품별 리뷰 기반 통계 정보 및 시각 자료 제공하는 웹 서비스
-    - 🔗 웹 사이트 주소: https://bert-absa-shampoo-web.onrender.com
+<!--- 🔗 웹 사이트 주소: https://bert-absa-shampoo-web.onrender.com -->
       
   - [발표 자료](./파이널플젝_발표_최종.pdf)
 
